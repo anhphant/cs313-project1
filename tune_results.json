@@ -1,0 +1,4332 @@
+[
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 3,
+    "n_clusters": 432,
+    "noise_pct": 34.73529411764706,
+    "silhouette": 0.6716272590539306
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 5,
+    "n_clusters": 195,
+    "noise_pct": 44.31372549019608,
+    "silhouette": 0.7606368813110773
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 10,
+    "n_clusters": 91,
+    "noise_pct": 53.57843137254902,
+    "silhouette": 0.8303408498631893
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 15,
+    "n_clusters": 51,
+    "noise_pct": 59.81372549019608,
+    "silhouette": 0.8548190866003303
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 20,
+    "n_clusters": 36,
+    "noise_pct": 63.35294117647059,
+    "silhouette": 0.8816512486420157
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 30,
+    "n_clusters": 23,
+    "noise_pct": 66.98039215686275,
+    "silhouette": 0.9310798668210275
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 40,
+    "n_clusters": 18,
+    "noise_pct": 69.19607843137256,
+    "silhouette": 0.9297260120729731
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 50,
+    "n_clusters": 15,
+    "noise_pct": 70.83333333333334,
+    "silhouette": 0.9456456846130965
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 75,
+    "n_clusters": 12,
+    "noise_pct": 74.27450980392157,
+    "silhouette": 0.9703485718601663
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 5,
+    "min_samples": 100,
+    "n_clusters": 9,
+    "noise_pct": 77.11764705882352,
+    "silhouette": 0.984569691031729
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 3,
+    "n_clusters": 413,
+    "noise_pct": 26.107843137254903,
+    "silhouette": 0.5317217303419427
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 5,
+    "n_clusters": 216,
+    "noise_pct": 34.529411764705884,
+    "silhouette": 0.6048640308908617
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 10,
+    "n_clusters": 98,
+    "noise_pct": 46.02941176470588,
+    "silhouette": 0.7341257769440492
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 15,
+    "n_clusters": 52,
+    "noise_pct": 53.80392156862746,
+    "silhouette": 0.7721027608176871
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 20,
+    "n_clusters": 38,
+    "noise_pct": 57.333333333333336,
+    "silhouette": 0.8283868344956079
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 30,
+    "n_clusters": 21,
+    "noise_pct": 62.86274509803922,
+    "silhouette": 0.9347356541662091
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 40,
+    "n_clusters": 19,
+    "noise_pct": 64.88235294117646,
+    "silhouette": 0.9179948053012013
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 50,
+    "n_clusters": 17,
+    "noise_pct": 66.84313725490196,
+    "silhouette": 0.9153132045044741
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 75,
+    "n_clusters": 14,
+    "noise_pct": 68.73529411764706,
+    "silhouette": 0.9371742667035438
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 8,
+    "min_samples": 100,
+    "n_clusters": 10,
+    "noise_pct": 72.69607843137254,
+    "silhouette": 0.9756652477032015
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 3,
+    "n_clusters": 371,
+    "noise_pct": 22.127450980392158,
+    "silhouette": 0.501171724958346
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 5,
+    "n_clusters": 205,
+    "noise_pct": 29.50980392156863,
+    "silhouette": 0.5626984495673027
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 10,
+    "n_clusters": 101,
+    "noise_pct": 40.911764705882355,
+    "silhouette": 0.6893051022967889
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 15,
+    "n_clusters": 60,
+    "noise_pct": 49.06862745098039,
+    "silhouette": 0.8071416214422005
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 20,
+    "n_clusters": 40,
+    "noise_pct": 53.970588235294116,
+    "silhouette": 0.790945803341767
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 30,
+    "n_clusters": 26,
+    "noise_pct": 59.38235294117648,
+    "silhouette": 0.8867340819326535
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 40,
+    "n_clusters": 17,
+    "noise_pct": 63.01960784313726,
+    "silhouette": 0.9339997533628626
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 50,
+    "n_clusters": 17,
+    "noise_pct": 63.627450980392155,
+    "silhouette": 0.9455320264311949
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 75,
+    "n_clusters": 13,
+    "noise_pct": 67.00980392156862,
+    "silhouette": 0.9472006701100907
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 10,
+    "min_samples": 100,
+    "n_clusters": 12,
+    "noise_pct": 69.43137254901961,
+    "silhouette": 0.9248700068808788
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 3,
+    "n_clusters": 343,
+    "noise_pct": 19.06862745098039,
+    "silhouette": 0.4930632446348989
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 5,
+    "n_clusters": 186,
+    "noise_pct": 25.813725490196077,
+    "silhouette": 0.5386418222493751
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 10,
+    "n_clusters": 103,
+    "noise_pct": 36.01960784313725,
+    "silhouette": 0.6530579805995328
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 15,
+    "n_clusters": 68,
+    "noise_pct": 44.049019607843135,
+    "silhouette": 0.7090838009886876
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 20,
+    "n_clusters": 44,
+    "noise_pct": 50.225490196078425,
+    "silhouette": 0.8176642890939324
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 30,
+    "n_clusters": 24,
+    "noise_pct": 57.15686274509804,
+    "silhouette": 0.8788758371964979
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 40,
+    "n_clusters": 21,
+    "noise_pct": 59.833333333333336,
+    "silhouette": 0.87750861438042
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 50,
+    "n_clusters": 17,
+    "noise_pct": 62.14705882352941,
+    "silhouette": 0.9336602259239182
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 75,
+    "n_clusters": 12,
+    "noise_pct": 65.98039215686275,
+    "silhouette": 0.9746042479289309
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 12,
+    "min_samples": 100,
+    "n_clusters": 11,
+    "noise_pct": 68.44117647058823,
+    "silhouette": 0.9525660757569164
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 3,
+    "n_clusters": 303,
+    "noise_pct": 15.852941176470589,
+    "silhouette": 0.46620325849465405
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 5,
+    "n_clusters": 168,
+    "noise_pct": 21.745098039215684,
+    "silhouette": 0.5219368116938401
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 10,
+    "n_clusters": 93,
+    "noise_pct": 31.07843137254902,
+    "silhouette": 0.6363190066655791
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 15,
+    "n_clusters": 65,
+    "noise_pct": 38.30392156862745,
+    "silhouette": 0.7311102380680506
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 20,
+    "n_clusters": 44,
+    "noise_pct": 44.83333333333333,
+    "silhouette": 0.8215060707386997
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 30,
+    "n_clusters": 26,
+    "noise_pct": 52.794117647058826,
+    "silhouette": 0.8863173116868669
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 40,
+    "n_clusters": 21,
+    "noise_pct": 56.77450980392157,
+    "silhouette": 0.8654420099709581
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 50,
+    "n_clusters": 17,
+    "noise_pct": 60.21568627450981,
+    "silhouette": 0.915918710403493
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 75,
+    "n_clusters": 12,
+    "noise_pct": 64.66666666666666,
+    "silhouette": 0.9713064881861275
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 15,
+    "min_samples": 100,
+    "n_clusters": 10,
+    "noise_pct": 66.8529411764706,
+    "silhouette": 0.9828032187135131
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 3,
+    "n_clusters": 251,
+    "noise_pct": 12.147058823529413,
+    "silhouette": 0.3332694427760241
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 5,
+    "n_clusters": 145,
+    "noise_pct": 17.02941176470588,
+    "silhouette": 0.45057594764718545
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 10,
+    "n_clusters": 92,
+    "noise_pct": 24.92156862745098,
+    "silhouette": 0.5776857864415383
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 15,
+    "n_clusters": 65,
+    "noise_pct": 30.76470588235294,
+    "silhouette": 0.6249985461473607
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 20,
+    "n_clusters": 52,
+    "noise_pct": 35.5,
+    "silhouette": 0.7120235565128568
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 30,
+    "n_clusters": 34,
+    "noise_pct": 44.55882352941177,
+    "silhouette": 0.8208337821051535
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 40,
+    "n_clusters": 23,
+    "noise_pct": 51.14705882352941,
+    "silhouette": 0.8627595746382084
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 50,
+    "n_clusters": 17,
+    "noise_pct": 54.23529411764706,
+    "silhouette": 0.8801530606910727
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 75,
+    "n_clusters": 13,
+    "noise_pct": 60.32352941176471,
+    "silhouette": 0.9362441335090368
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 20,
+    "min_samples": 100,
+    "n_clusters": 10,
+    "noise_pct": 64.58823529411765,
+    "silhouette": 0.974655041709881
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 3,
+    "n_clusters": 203,
+    "noise_pct": 10.450980392156863,
+    "silhouette": 0.30058804046381826
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 5,
+    "n_clusters": 126,
+    "noise_pct": 14.156862745098039,
+    "silhouette": 0.38971246306773494
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 10,
+    "n_clusters": 82,
+    "noise_pct": 20.764705882352942,
+    "silhouette": 0.5085163889367711
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 15,
+    "n_clusters": 63,
+    "noise_pct": 26.205882352941178,
+    "silhouette": 0.6289065004095303
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 20,
+    "n_clusters": 49,
+    "noise_pct": 30.65686274509804,
+    "silhouette": 0.6830388127208472
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 30,
+    "n_clusters": 34,
+    "noise_pct": 38.127450980392155,
+    "silhouette": 0.7464821475853967
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 40,
+    "n_clusters": 26,
+    "noise_pct": 43.931372549019606,
+    "silhouette": 0.8325342726294029
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 50,
+    "n_clusters": 20,
+    "noise_pct": 49.15686274509804,
+    "silhouette": 0.8572583506785747
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 75,
+    "n_clusters": 16,
+    "noise_pct": 53.74509803921569,
+    "silhouette": 0.8894086099601053
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 25,
+    "min_samples": 100,
+    "n_clusters": 11,
+    "noise_pct": 60.36274509803922,
+    "silhouette": 0.9588116546630547
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 3,
+    "n_clusters": 174,
+    "noise_pct": 9.205882352941176,
+    "silhouette": 0.2125819180368559
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 5,
+    "n_clusters": 105,
+    "noise_pct": 12.23529411764706,
+    "silhouette": 0.3243561039683097
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 10,
+    "n_clusters": 68,
+    "noise_pct": 17.176470588235293,
+    "silhouette": 0.49064743479249145
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 15,
+    "n_clusters": 51,
+    "noise_pct": 22.61764705882353,
+    "silhouette": 0.5619857113882836
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 20,
+    "n_clusters": 45,
+    "noise_pct": 26.19607843137255,
+    "silhouette": 0.6764558165710665
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 30,
+    "n_clusters": 31,
+    "noise_pct": 33.27450980392157,
+    "silhouette": 0.7717034661909559
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 40,
+    "n_clusters": 25,
+    "noise_pct": 38.22549019607843,
+    "silhouette": 0.7558279541465429
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 50,
+    "n_clusters": 24,
+    "noise_pct": 42.27450980392157,
+    "silhouette": 0.8324104009244985
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 75,
+    "n_clusters": 16,
+    "noise_pct": 50.372549019607845,
+    "silhouette": 0.8697816322341136
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 30,
+    "min_samples": 100,
+    "n_clusters": 13,
+    "noise_pct": 55.03921568627451,
+    "silhouette": 0.8987603871396226
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 3,
+    "n_clusters": 151,
+    "noise_pct": 7.470588235294118,
+    "silhouette": 0.3371962463810193
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 5,
+    "n_clusters": 81,
+    "noise_pct": 10.176470588235293,
+    "silhouette": 0.3074598437723399
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 10,
+    "n_clusters": 57,
+    "noise_pct": 13.480392156862745,
+    "silhouette": 0.41917555643864024
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 15,
+    "n_clusters": 49,
+    "noise_pct": 16.81372549019608,
+    "silhouette": 0.5507684036911137
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 20,
+    "n_clusters": 41,
+    "noise_pct": 19.950980392156865,
+    "silhouette": 0.603704081237286
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 30,
+    "n_clusters": 31,
+    "noise_pct": 25.362745098039213,
+    "silhouette": 0.6832644922961129
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 40,
+    "n_clusters": 21,
+    "noise_pct": 31.539215686274506,
+    "silhouette": 0.7293103841672967
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 50,
+    "n_clusters": 21,
+    "noise_pct": 33.57843137254902,
+    "silhouette": 0.7736758473435369
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 75,
+    "n_clusters": 17,
+    "noise_pct": 40.833333333333336,
+    "silhouette": 0.7950123714678964
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 40,
+    "min_samples": 100,
+    "n_clusters": 12,
+    "noise_pct": 48.15686274509804,
+    "silhouette": 0.8603713683639697
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 3,
+    "n_clusters": 131,
+    "noise_pct": 6.519607843137256,
+    "silhouette": 0.29924453695044895
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 5,
+    "n_clusters": 66,
+    "noise_pct": 9.107843137254902,
+    "silhouette": 0.399530264721567
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 10,
+    "n_clusters": 40,
+    "noise_pct": 12.049019607843137,
+    "silhouette": 0.5532590173276168
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 15,
+    "n_clusters": 39,
+    "noise_pct": 13.980392156862745,
+    "silhouette": 0.5026040541982026
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 20,
+    "n_clusters": 32,
+    "noise_pct": 16.558823529411764,
+    "silhouette": 0.5888630329412713
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 30,
+    "n_clusters": 27,
+    "noise_pct": 20.91176470588235,
+    "silhouette": 0.643541502585119
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 40,
+    "n_clusters": 20,
+    "noise_pct": 26.107843137254903,
+    "silhouette": 0.6977947031937289
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 50,
+    "n_clusters": 19,
+    "noise_pct": 28.647058823529413,
+    "silhouette": 0.6871713963764153
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 75,
+    "n_clusters": 19,
+    "noise_pct": 33.588235294117645,
+    "silhouette": 0.7622306899656142
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 50,
+    "min_samples": 100,
+    "n_clusters": 14,
+    "noise_pct": 40.44117647058824,
+    "silhouette": 0.7912860993985299
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 3,
+    "n_clusters": 110,
+    "noise_pct": 5.892156862745098,
+    "silhouette": 0.24114041517020326
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 5,
+    "n_clusters": 56,
+    "noise_pct": 8.009803921568627,
+    "silhouette": 0.27112463870727266
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 10,
+    "n_clusters": 33,
+    "noise_pct": 10.568627450980392,
+    "silhouette": 0.20981812654100043
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 15,
+    "n_clusters": 32,
+    "noise_pct": 12.058823529411764,
+    "silhouette": 0.5374928576962756
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 20,
+    "n_clusters": 31,
+    "noise_pct": 13.843137254901961,
+    "silhouette": 0.5709572919423931
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 30,
+    "n_clusters": 22,
+    "noise_pct": 17.441176470588236,
+    "silhouette": 0.653883005778644
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 40,
+    "n_clusters": 20,
+    "noise_pct": 21.009803921568626,
+    "silhouette": 0.7120813354407867
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 50,
+    "n_clusters": 19,
+    "noise_pct": 23.647058823529413,
+    "silhouette": 0.7464178787103852
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 75,
+    "n_clusters": 18,
+    "noise_pct": 27.941176470588236,
+    "silhouette": 0.6690893577405114
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 60,
+    "min_samples": 100,
+    "n_clusters": 17,
+    "noise_pct": 34.09803921568628,
+    "silhouette": 0.7489857641290711
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 3,
+    "n_clusters": 109,
+    "noise_pct": 4.911764705882353,
+    "silhouette": 0.1674691828862547
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 5,
+    "n_clusters": 57,
+    "noise_pct": 7.000000000000001,
+    "silhouette": 0.2616535865563761
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 10,
+    "n_clusters": 30,
+    "noise_pct": 9.392156862745098,
+    "silhouette": 0.236832813969214
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 15,
+    "n_clusters": 25,
+    "noise_pct": 10.382352941176471,
+    "silhouette": 0.2832169353104081
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 20,
+    "n_clusters": 23,
+    "noise_pct": 11.852941176470589,
+    "silhouette": 0.30845217523728363
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 30,
+    "n_clusters": 19,
+    "noise_pct": 14.313725490196077,
+    "silhouette": 0.6609779775435518
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 40,
+    "n_clusters": 18,
+    "noise_pct": 16.441176470588236,
+    "silhouette": 0.656756146236306
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 50,
+    "n_clusters": 17,
+    "noise_pct": 18.57843137254902,
+    "silhouette": 0.7360787457771444
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 75,
+    "n_clusters": 14,
+    "noise_pct": 24.107843137254903,
+    "silhouette": 0.727403078691047
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 75,
+    "min_samples": 100,
+    "n_clusters": 13,
+    "noise_pct": 27.147058823529413,
+    "silhouette": 0.7451130795001935
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 3,
+    "n_clusters": 103,
+    "noise_pct": 3.754901960784314,
+    "silhouette": 0.4515810416849282
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 5,
+    "n_clusters": 56,
+    "noise_pct": 5.637254901960785,
+    "silhouette": 0.42666006459519507
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 10,
+    "n_clusters": 27,
+    "noise_pct": 8.127450980392156,
+    "silhouette": 0.40439803127862856
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 15,
+    "n_clusters": 21,
+    "noise_pct": 9.245098039215687,
+    "silhouette": 0.5279430131723264
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 20,
+    "n_clusters": 17,
+    "noise_pct": 10.019607843137255,
+    "silhouette": 0.5106897795551388
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 30,
+    "n_clusters": 18,
+    "noise_pct": 11.019607843137255,
+    "silhouette": 0.3540465084913473
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 40,
+    "n_clusters": 15,
+    "noise_pct": 12.980392156862743,
+    "silhouette": 0.40068807391942346
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 50,
+    "n_clusters": 16,
+    "noise_pct": 13.627450980392156,
+    "silhouette": 0.46886475692266516
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 75,
+    "n_clusters": 15,
+    "noise_pct": 16.92156862745098,
+    "silhouette": 0.7368908387406797
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 100,
+    "min_samples": 100,
+    "n_clusters": 12,
+    "noise_pct": 21.313725490196077,
+    "silhouette": 0.8138414159617698
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 3,
+    "n_clusters": 77,
+    "noise_pct": 2.313725490196078,
+    "silhouette": 0.4394677678796056
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 5,
+    "n_clusters": 55,
+    "noise_pct": 3.705882352941176,
+    "silhouette": 0.3511875635407162
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 10,
+    "n_clusters": 26,
+    "noise_pct": 6.254901960784314,
+    "silhouette": 0.6528639378436649
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 15,
+    "n_clusters": 19,
+    "noise_pct": 7.558823529411765,
+    "silhouette": 0.546498641120908
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 20,
+    "n_clusters": 17,
+    "noise_pct": 8.362745098039216,
+    "silhouette": 0.5376280371274735
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 30,
+    "n_clusters": 14,
+    "noise_pct": 9.088235294117647,
+    "silhouette": 0.549253481692359
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 40,
+    "n_clusters": 12,
+    "noise_pct": 9.852941176470589,
+    "silhouette": 0.5543147770795877
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 50,
+    "n_clusters": 12,
+    "noise_pct": 10.431372549019608,
+    "silhouette": 0.6568715385010807
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 75,
+    "n_clusters": 12,
+    "noise_pct": 11.911764705882351,
+    "silhouette": 0.6223748627815373
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 150,
+    "min_samples": 100,
+    "n_clusters": 13,
+    "noise_pct": 13.166666666666666,
+    "silhouette": 0.5849374716885763
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 3,
+    "n_clusters": 70,
+    "noise_pct": 1.6372549019607843,
+    "silhouette": 0.5278270124561979
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 5,
+    "n_clusters": 47,
+    "noise_pct": 2.686274509803922,
+    "silhouette": 0.6114450440265553
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 10,
+    "n_clusters": 26,
+    "noise_pct": 5.264705882352941,
+    "silhouette": 0.6757326875886049
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 15,
+    "n_clusters": 19,
+    "noise_pct": 6.303921568627451,
+    "silhouette": 0.6453145347952294
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 20,
+    "n_clusters": 16,
+    "noise_pct": 7.254901960784315,
+    "silhouette": 0.6524788367894596
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 30,
+    "n_clusters": 13,
+    "noise_pct": 8.117647058823529,
+    "silhouette": 0.6507008975642296
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 40,
+    "n_clusters": 12,
+    "noise_pct": 9.107843137254902,
+    "silhouette": 0.5572071216600273
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 50,
+    "n_clusters": 12,
+    "noise_pct": 9.176470588235293,
+    "silhouette": 0.543148001647184
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 75,
+    "n_clusters": 10,
+    "noise_pct": 10.53921568627451,
+    "silhouette": 0.6895441043316262
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 200,
+    "min_samples": 100,
+    "n_clusters": 9,
+    "noise_pct": 11.401960784313726,
+    "silhouette": 0.6780100724306461
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 3,
+    "n_clusters": 55,
+    "noise_pct": 1.0098039215686274,
+    "silhouette": 0.5660350664051178
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 5,
+    "n_clusters": 37,
+    "noise_pct": 1.7352941176470589,
+    "silhouette": 0.6905739123192798
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 10,
+    "n_clusters": 26,
+    "noise_pct": 3.313725490196078,
+    "silhouette": 0.6694598450471229
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 15,
+    "n_clusters": 19,
+    "noise_pct": 4.549019607843137,
+    "silhouette": 0.6732269166054309
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 20,
+    "n_clusters": 16,
+    "noise_pct": 5.4411764705882355,
+    "silhouette": 0.683836713033995
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 30,
+    "n_clusters": 11,
+    "noise_pct": 7.098039215686275,
+    "silhouette": 0.663196966109147
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 40,
+    "n_clusters": 8,
+    "noise_pct": 8.215686274509803,
+    "silhouette": 0.704954965276267
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 50,
+    "n_clusters": 8,
+    "noise_pct": 8.225490196078432,
+    "silhouette": 0.6997709082239615
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 75,
+    "n_clusters": 7,
+    "noise_pct": 9.215686274509805,
+    "silhouette": 0.7062530855989942
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 300,
+    "min_samples": 100,
+    "n_clusters": 6,
+    "noise_pct": 10.117647058823529,
+    "silhouette": 0.7048175422912405
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 3,
+    "n_clusters": 29,
+    "noise_pct": 0.676470588235294,
+    "silhouette": 0.7286504984875075
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 5,
+    "n_clusters": 21,
+    "noise_pct": 1.0294117647058822,
+    "silhouette": 0.7215725244258071
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 10,
+    "n_clusters": 16,
+    "noise_pct": 1.7941176470588234,
+    "silhouette": 0.7193695303403996
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 15,
+    "n_clusters": 18,
+    "noise_pct": 2.2745098039215685,
+    "silhouette": 0.7141988518998535
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 20,
+    "n_clusters": 15,
+    "noise_pct": 3.0980392156862746,
+    "silhouette": 0.6970721493228849
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 30,
+    "n_clusters": 13,
+    "noise_pct": 4.392156862745098,
+    "silhouette": 0.6810239213887397
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 40,
+    "n_clusters": 8,
+    "noise_pct": 6.294117647058823,
+    "silhouette": 0.7210711595987551
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 50,
+    "n_clusters": 6,
+    "noise_pct": 7.509803921568628,
+    "silhouette": 0.7590049696391385
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 75,
+    "n_clusters": 6,
+    "noise_pct": 7.558823529411765,
+    "silhouette": 0.7588183718907037
+  },
+  {
+    "algo": "DBSCAN",
+    "eps_km": 500,
+    "min_samples": 100,
+    "n_clusters": 5,
+    "noise_pct": 8.46078431372549,
+    "silhouette": 0.7576131943595693
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 201,
+    "noise_pct": 30.38235294117647,
+    "silhouette": 0.675333534064999
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 145,
+    "noise_pct": 22.686274509803923,
+    "silhouette": 0.6461966983252553
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 114,
+    "noise_pct": 16.441176470588236,
+    "silhouette": 0.6447129547311017
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 85,
+    "noise_pct": 10.568627450980392,
+    "silhouette": 0.4915888547067566
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 57,
+    "noise_pct": 6.774509803921569,
+    "silhouette": 0.5655027822989921
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 41,
+    "noise_pct": 4.235294117647059,
+    "silhouette": 0.4288190598616541
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 293,
+    "noise_pct": 24.323529411764707,
+    "silhouette": 0.6449907703298461
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 191,
+    "noise_pct": 14.57843137254902,
+    "silhouette": 0.5888167510986442
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 130,
+    "noise_pct": 8.42156862745098,
+    "silhouette": 0.4351231688043148
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 94,
+    "noise_pct": 6.186274509803921,
+    "silhouette": 0.34762360540262444
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 64,
+    "noise_pct": 3.656862745098039,
+    "silhouette": 0.44439832353793635
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 47,
+    "noise_pct": 2.843137254901961,
+    "silhouette": 0.47983663384073644
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 257,
+    "noise_pct": 26.294117647058822,
+    "silhouette": 0.6380401788795111
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 180,
+    "noise_pct": 16.99019607843137,
+    "silhouette": 0.6008597575866368
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 129,
+    "noise_pct": 10.392156862745098,
+    "silhouette": 0.503805245340494
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 99,
+    "noise_pct": 7.637254901960784,
+    "silhouette": 0.4646600356025844
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 64,
+    "noise_pct": 4.352941176470588,
+    "silhouette": 0.47291487476009103
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 46,
+    "noise_pct": 3.1470588235294117,
+    "silhouette": 0.4395079894041137
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 136,
+    "noise_pct": 35.37254901960784,
+    "silhouette": 0.7028420924819042
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 104,
+    "noise_pct": 28.235294117647058,
+    "silhouette": 0.7306175745687308
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 88,
+    "noise_pct": 21.833333333333332,
+    "silhouette": 0.6630815394009724
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 69,
+    "noise_pct": 15.696078431372548,
+    "silhouette": 0.611450270455401
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 50,
+    "noise_pct": 9.627450980392156,
+    "silhouette": 0.6126549079676235
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 30,
+    "noise_pct": 5.156862745098039,
+    "silhouette": 0.5307978438894323
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 42,
+    "noise_pct": 36.1078431372549,
+    "silhouette": 0.8092709586861319
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 38,
+    "noise_pct": 32.20588235294118,
+    "silhouette": 0.8167339216596117
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 36,
+    "noise_pct": 25.627450980392158,
+    "silhouette": 0.7880663183806896
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 36,
+    "noise_pct": 25.627450980392158,
+    "silhouette": 0.7880663183806896
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 31,
+    "noise_pct": 20.431372549019606,
+    "silhouette": 0.75101929206815
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 10,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 23,
+    "noise_pct": 12.84313725490196,
+    "silhouette": 0.7004480176207413
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 88,
+    "noise_pct": 38.91176470588235,
+    "silhouette": 0.7297661186176477
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 73,
+    "noise_pct": 32.450980392156865,
+    "silhouette": 0.7509037831465425
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 66,
+    "noise_pct": 26.98039215686274,
+    "silhouette": 0.7705503607544225
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 54,
+    "noise_pct": 18.92156862745098,
+    "silhouette": 0.682874098774972
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 41,
+    "noise_pct": 9.843137254901961,
+    "silhouette": 0.6744852735459644
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 28,
+    "noise_pct": 6.42156862745098,
+    "silhouette": 0.44832683500645565
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 141,
+    "noise_pct": 23.235294117647058,
+    "silhouette": 0.600324502204648
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 104,
+    "noise_pct": 15.764705882352942,
+    "silhouette": 0.5876321065647627
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 75,
+    "noise_pct": 10.205882352941178,
+    "silhouette": 0.4690443420809601
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 55,
+    "noise_pct": 6.6078431372549025,
+    "silhouette": 0.5066579763915028
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 38,
+    "noise_pct": 4.205882352941177,
+    "silhouette": 0.5413289107812111
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 28,
+    "noise_pct": 3.245098039215686,
+    "silhouette": 0.5529375259773652
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 129,
+    "noise_pct": 25.0,
+    "silhouette": 0.6018026299986944
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 97,
+    "noise_pct": 17.088235294117645,
+    "silhouette": 0.6245283916912449
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 75,
+    "noise_pct": 13.088235294117649,
+    "silhouette": 0.5496599329528958
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 59,
+    "noise_pct": 8.647058823529411,
+    "silhouette": 0.5587154849000778
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 40,
+    "noise_pct": 4.666666666666667,
+    "silhouette": 0.5480141707452802
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 28,
+    "noise_pct": 3.705882352941176,
+    "silhouette": 0.5766672624912511
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 100,
+    "noise_pct": 35.84313725490196,
+    "silhouette": 0.6925173544392713
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 81,
+    "noise_pct": 28.84313725490196,
+    "silhouette": 0.7591932776372582
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 71,
+    "noise_pct": 22.686274509803923,
+    "silhouette": 0.6936970580382186
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 56,
+    "noise_pct": 15.558823529411764,
+    "silhouette": 0.6264909527541186
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 43,
+    "noise_pct": 9.127450980392156,
+    "silhouette": 0.6085049306767949
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 26,
+    "noise_pct": 5.186274509803922,
+    "silhouette": 0.5523282217471508
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 38,
+    "noise_pct": 36.61764705882353,
+    "silhouette": 0.8119625405892708
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 34,
+    "noise_pct": 32.71568627450981,
+    "silhouette": 0.8229495694226548
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 32,
+    "noise_pct": 26.137254901960784,
+    "silhouette": 0.8056991167127275
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 32,
+    "noise_pct": 26.137254901960784,
+    "silhouette": 0.8056991167127275
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 27,
+    "noise_pct": 20.941176470588236,
+    "silhouette": 0.7565382162816913
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 20,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 20,
+    "noise_pct": 12.333333333333334,
+    "silhouette": 0.727840802212957
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 58,
+    "noise_pct": 38.70588235294118,
+    "silhouette": 0.7364818382459862
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 49,
+    "noise_pct": 31.058823529411768,
+    "silhouette": 0.7914869961888883
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 45,
+    "noise_pct": 26.127450980392158,
+    "silhouette": 0.7674500632755414
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 38,
+    "noise_pct": 20.392156862745097,
+    "silhouette": 0.7552706385488316
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 31,
+    "noise_pct": 13.696078431372548,
+    "silhouette": 0.6884963024558352
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 24,
+    "noise_pct": 7.147058823529412,
+    "silhouette": 0.37713561165012055
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 96,
+    "noise_pct": 27.147058823529413,
+    "silhouette": 0.5782117585582501
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 70,
+    "noise_pct": 19.07843137254902,
+    "silhouette": 0.6519126496970391
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 52,
+    "noise_pct": 12.313725490196079,
+    "silhouette": 0.522833514125637
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 41,
+    "noise_pct": 7.7254901960784315,
+    "silhouette": 0.513158530677611
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 28,
+    "noise_pct": 4.215686274509804,
+    "silhouette": 0.5515559240223051
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 23,
+    "noise_pct": 2.941176470588235,
+    "silhouette": 0.5605077875802671
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 92,
+    "noise_pct": 28.38235294117647,
+    "silhouette": 0.5997439944075913
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 68,
+    "noise_pct": 18.568627450980394,
+    "silhouette": 0.6594159291958824
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 53,
+    "noise_pct": 14.529411764705882,
+    "silhouette": 0.6027082237722542
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 43,
+    "noise_pct": 9.235294117647058,
+    "silhouette": 0.5497841427320906
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 29,
+    "noise_pct": 4.401960784313726,
+    "silhouette": 0.5420156491015085
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 23,
+    "noise_pct": 3.343137254901961,
+    "silhouette": 0.5658588035215939
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 72,
+    "noise_pct": 36.254901960784316,
+    "silhouette": 0.6789956101048156
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 58,
+    "noise_pct": 28.127450980392155,
+    "silhouette": 0.741793708104018
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 49,
+    "noise_pct": 21.41176470588235,
+    "silhouette": 0.703701580107142
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 38,
+    "noise_pct": 14.843137254901961,
+    "silhouette": 0.6392624899936277
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 31,
+    "noise_pct": 8.343137254901961,
+    "silhouette": 0.6678942421931622
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 23,
+    "noise_pct": 5.666666666666666,
+    "silhouette": 0.5410895920908101
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 35,
+    "noise_pct": 33.63725490196078,
+    "silhouette": 0.8026960245656025
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 31,
+    "noise_pct": 29.735294117647058,
+    "silhouette": 0.8118025471602867
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 30,
+    "noise_pct": 25.588235294117645,
+    "silhouette": 0.7902776003387412
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 30,
+    "noise_pct": 25.588235294117645,
+    "silhouette": 0.7902776003387412
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 25,
+    "noise_pct": 20.392156862745097,
+    "silhouette": 0.7446867869872469
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 30,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 18,
+    "noise_pct": 11.784313725490197,
+    "silhouette": 0.7163642563517633
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 43,
+    "noise_pct": 34.872549019607845,
+    "silhouette": 0.793840485757593
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 39,
+    "noise_pct": 31.35294117647059,
+    "silhouette": 0.8166069970591072
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 37,
+    "noise_pct": 25.666666666666664,
+    "silhouette": 0.7822849651301389
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 33,
+    "noise_pct": 21.480392156862745,
+    "silhouette": 0.7551345354129463
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 29,
+    "noise_pct": 17.0,
+    "silhouette": 0.697435422797611
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 22,
+    "noise_pct": 8.73529411764706,
+    "silhouette": 0.37737085562280565
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 66,
+    "noise_pct": 25.254901960784316,
+    "silhouette": 0.5577407200682523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 52,
+    "noise_pct": 18.235294117647058,
+    "silhouette": 0.6590256236472063
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 38,
+    "noise_pct": 11.323529411764707,
+    "silhouette": 0.5921162202926041
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 30,
+    "noise_pct": 5.852941176470589,
+    "silhouette": 0.6227368520264149
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 3.833333333333333,
+    "silhouette": 0.5579016780520348
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 20,
+    "noise_pct": 2.558823529411765,
+    "silhouette": 0.54831242680666
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 58,
+    "noise_pct": 24.43137254901961,
+    "silhouette": 0.6611636015773263
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 48,
+    "noise_pct": 18.774509803921568,
+    "silhouette": 0.6703137458005096
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 37,
+    "noise_pct": 11.92156862745098,
+    "silhouette": 0.6108585235832542
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 31,
+    "noise_pct": 7.980392156862745,
+    "silhouette": 0.6221900371108959
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 4.450980392156863,
+    "silhouette": 0.5507542182899539
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 19,
+    "noise_pct": 3.441176470588235,
+    "silhouette": 0.5381414806169182
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 49,
+    "noise_pct": 27.303921568627448,
+    "silhouette": 0.7171244758781711
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 44,
+    "noise_pct": 24.245098039215687,
+    "silhouette": 0.7352236381568802
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 39,
+    "noise_pct": 18.264705882352942,
+    "silhouette": 0.6981026880497279
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 31,
+    "noise_pct": 11.127450980392156,
+    "silhouette": 0.637132970178945
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 27,
+    "noise_pct": 7.000000000000001,
+    "silhouette": 0.6662050282924851
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 20,
+    "noise_pct": 4.53921568627451,
+    "silhouette": 0.5368793337126715
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 33,
+    "noise_pct": 33.62745098039216,
+    "silhouette": 0.7996372896828202
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 30,
+    "noise_pct": 29.401960784313726,
+    "silhouette": 0.804613849009919
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 29,
+    "noise_pct": 25.254901960784316,
+    "silhouette": 0.7940135861098899
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 29,
+    "noise_pct": 25.254901960784316,
+    "silhouette": 0.7940135861098899
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 25,
+    "noise_pct": 20.392156862745097,
+    "silhouette": 0.7446867869872469
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 40,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 18,
+    "noise_pct": 11.784313725490197,
+    "silhouette": 0.7163642563517633
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 31,
+    "noise_pct": 32.53921568627451,
+    "silhouette": 0.7938500690372905
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 29,
+    "noise_pct": 29.843137254901958,
+    "silhouette": 0.8125224910131018
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 28,
+    "noise_pct": 25.69607843137255,
+    "silhouette": 0.7982269672405922
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 28,
+    "noise_pct": 25.69607843137255,
+    "silhouette": 0.7982269672405922
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 20.833333333333336,
+    "silhouette": 0.7511746694208224
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 17,
+    "noise_pct": 12.22549019607843,
+    "silhouette": 0.7197789831655187
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 52,
+    "noise_pct": 22.80392156862745,
+    "silhouette": 0.5914896475832283
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 42,
+    "noise_pct": 17.04901960784314,
+    "silhouette": 0.6693641236080711
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 33,
+    "noise_pct": 10.294117647058822,
+    "silhouette": 0.5998536421838655
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 27,
+    "noise_pct": 6.3431372549019605,
+    "silhouette": 0.617126169314013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 22,
+    "noise_pct": 4.745098039215686,
+    "silhouette": 0.5642339072609416
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 18,
+    "noise_pct": 3.4705882352941178,
+    "silhouette": 0.6124179248714858
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 50,
+    "noise_pct": 24.362745098039216,
+    "silhouette": 0.5968196820585001
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 42,
+    "noise_pct": 17.715686274509803,
+    "silhouette": 0.6796080116330961
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 35,
+    "noise_pct": 13.245098039215685,
+    "silhouette": 0.62133343462276
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 29,
+    "noise_pct": 8.490196078431373,
+    "silhouette": 0.6470117180128926
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 23,
+    "noise_pct": 4.921568627450981,
+    "silhouette": 0.5424081667517265
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 18,
+    "noise_pct": 3.911764705882353,
+    "silhouette": 0.6176641523659486
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 41,
+    "noise_pct": 23.245098039215687,
+    "silhouette": 0.7224352856943971
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 37,
+    "noise_pct": 20.637254901960784,
+    "silhouette": 0.7329519149469664
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 34,
+    "noise_pct": 16.980392156862745,
+    "silhouette": 0.7037979370563435
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 27,
+    "noise_pct": 11.098039215686274,
+    "silhouette": 0.6485776193795206
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 7.1764705882352935,
+    "silhouette": 0.6627247249071077
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 18,
+    "noise_pct": 4.754901960784314,
+    "silhouette": 0.6085833807587949
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 31,
+    "noise_pct": 32.53921568627451,
+    "silhouette": 0.7938500690372905
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 29,
+    "noise_pct": 29.843137254901958,
+    "silhouette": 0.8125224910131018
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 28,
+    "noise_pct": 25.69607843137255,
+    "silhouette": 0.7982269672405922
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 28,
+    "noise_pct": 25.69607843137255,
+    "silhouette": 0.7982269672405922
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 20.833333333333336,
+    "silhouette": 0.7511746694208224
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 50,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 17,
+    "noise_pct": 12.22549019607843,
+    "silhouette": 0.7197789831655187
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 27,
+    "noise_pct": 31.107843137254903,
+    "silhouette": 0.8149426406374572
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 27,
+    "noise_pct": 31.107843137254903,
+    "silhouette": 0.8149426406374572
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 26,
+    "noise_pct": 29.09803921568627,
+    "silhouette": 0.8193020836933086
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 26,
+    "noise_pct": 29.09803921568627,
+    "silhouette": 0.8193020836933086
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 22.715686274509803,
+    "silhouette": 0.7605081034580323
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 17,
+    "noise_pct": 13.647058823529413,
+    "silhouette": 0.7496384707911107
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 39,
+    "noise_pct": 25.401960784313726,
+    "silhouette": 0.621790159238768
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 34,
+    "noise_pct": 18.03921568627451,
+    "silhouette": 0.6926613753157339
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 27,
+    "noise_pct": 10.382352941176471,
+    "silhouette": 0.615332248435571
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 23,
+    "noise_pct": 7.245098039215686,
+    "silhouette": 0.6365217119686208
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 19,
+    "noise_pct": 5.872549019607843,
+    "silhouette": 0.5549550118475213
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 15,
+    "noise_pct": 4.598039215686275,
+    "silhouette": 0.6239717102726536
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 34,
+    "noise_pct": 20.42156862745098,
+    "silhouette": 0.6349816898331674
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 32,
+    "noise_pct": 15.92156862745098,
+    "silhouette": 0.6940825892676319
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 28,
+    "noise_pct": 12.156862745098039,
+    "silhouette": 0.6204076157479465
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 25,
+    "noise_pct": 9.029411764705882,
+    "silhouette": 0.6553824762258512
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 20,
+    "noise_pct": 5.862745098039215,
+    "silhouette": 0.5416750750015901
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 15,
+    "noise_pct": 4.852941176470589,
+    "silhouette": 0.6166673673685898
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 32,
+    "noise_pct": 23.61764705882353,
+    "silhouette": 0.7108540785585565
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 30,
+    "noise_pct": 21.196078431372552,
+    "silhouette": 0.7285106474906115
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 27,
+    "noise_pct": 15.284313725490195,
+    "silhouette": 0.6916541771038296
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 24,
+    "noise_pct": 11.588235294117647,
+    "silhouette": 0.6509957116362014
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 21,
+    "noise_pct": 7.666666666666666,
+    "silhouette": 0.6614472740120163
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 15,
+    "noise_pct": 5.245098039215686,
+    "silhouette": 0.5915999198494069
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 30,
+    "noise_pct": 33.25490196078431,
+    "silhouette": 0.8006739185233368
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 28,
+    "noise_pct": 30.558823529411764,
+    "silhouette": 0.8074362284011091
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 27,
+    "noise_pct": 26.41176470588235,
+    "silhouette": 0.8025047198287316
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 27,
+    "noise_pct": 26.41176470588235,
+    "silhouette": 0.8025047198287316
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 24,
+    "noise_pct": 20.833333333333336,
+    "silhouette": 0.7511746694208224
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 75,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 17,
+    "noise_pct": 12.22549019607843,
+    "silhouette": 0.7197789831655187
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 23,
+    "noise_pct": 33.71568627450981,
+    "silhouette": 0.8148654442997806
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 23,
+    "noise_pct": 33.71568627450981,
+    "silhouette": 0.8148654442997806
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 22,
+    "noise_pct": 31.69607843137255,
+    "silhouette": 0.8315593145396274
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 22,
+    "noise_pct": 31.69607843137255,
+    "silhouette": 0.8315593145396274
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 21,
+    "noise_pct": 26.47058823529412,
+    "silhouette": 0.8033315729068095
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 16,
+    "noise_pct": 13.607843137254902,
+    "silhouette": 0.7957800281848023
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 30,
+    "noise_pct": 26.98039215686274,
+    "silhouette": 0.6679914599682324
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 26,
+    "noise_pct": 20.27450980392157,
+    "silhouette": 0.745181247703603
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 22,
+    "noise_pct": 7.245098039215686,
+    "silhouette": 0.6239636490090019
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 21,
+    "noise_pct": 6.852941176470588,
+    "silhouette": 0.6426940596479901
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 18,
+    "noise_pct": 5.784313725490196,
+    "silhouette": 0.555681823734641
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 14,
+    "noise_pct": 4.509803921568627,
+    "silhouette": 0.6186098122928786
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 30,
+    "noise_pct": 20.99019607843137,
+    "silhouette": 0.6691456858859378
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 28,
+    "noise_pct": 16.490196078431374,
+    "silhouette": 0.733075919813128
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 26,
+    "noise_pct": 11.892156862745098,
+    "silhouette": 0.6612031556162236
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 24,
+    "noise_pct": 8.941176470588236,
+    "silhouette": 0.6513373859679636
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 19,
+    "noise_pct": 5.7745098039215685,
+    "silhouette": 0.5269247825831995
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 14,
+    "noise_pct": 4.764705882352941,
+    "silhouette": 0.6161349571428142
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 28,
+    "noise_pct": 18.80392156862745,
+    "silhouette": 0.7243835906151287
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 27,
+    "noise_pct": 17.313725490196077,
+    "silhouette": 0.73947636322467
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 26,
+    "noise_pct": 14.76470588235294,
+    "silhouette": 0.6971516890875149
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 24,
+    "noise_pct": 11.588235294117647,
+    "silhouette": 0.6509957116362014
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 21,
+    "noise_pct": 7.666666666666666,
+    "silhouette": 0.6614472740120163
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 15,
+    "noise_pct": 5.245098039215686,
+    "silhouette": 0.5915999198494069
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 24,
+    "noise_pct": 25.460784313725487,
+    "silhouette": 0.7755222734961726
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 23,
+    "noise_pct": 23.47058823529412,
+    "silhouette": 0.7978939613337019
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 23,
+    "noise_pct": 23.47058823529412,
+    "silhouette": 0.7978939613337019
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 23,
+    "noise_pct": 23.47058823529412,
+    "silhouette": 0.7978939613337019
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 22,
+    "noise_pct": 18.705882352941178,
+    "silhouette": 0.722169057048628
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 100,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 16,
+    "noise_pct": 11.549019607843137,
+    "silhouette": 0.7075488625924571
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 16,
+    "noise_pct": 26.53921568627451,
+    "silhouette": 0.7606127875665554
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 16,
+    "noise_pct": 26.53921568627451,
+    "silhouette": 0.7606127875665554
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 16,
+    "noise_pct": 26.53921568627451,
+    "silhouette": 0.7606127875665554
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 16,
+    "noise_pct": 26.53921568627451,
+    "silhouette": 0.7606127875665554
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 16,
+    "noise_pct": 26.53921568627451,
+    "silhouette": 0.7606127875665554
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 13,
+    "noise_pct": 13.147058823529411,
+    "silhouette": 0.7559955991326789
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 21,
+    "noise_pct": 26.529411764705884,
+    "silhouette": 0.6865359117314777
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 20,
+    "noise_pct": 24.901960784313726,
+    "silhouette": 0.7290476087568285
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 17,
+    "noise_pct": 10.764705882352942,
+    "silhouette": 0.7183863778725416
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 16,
+    "noise_pct": 10.372549019607844,
+    "silhouette": 0.746069761195997
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 14,
+    "noise_pct": 7.950980392156863,
+    "silhouette": 0.6929178725012871
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 12,
+    "noise_pct": 4.4411764705882355,
+    "silhouette": 0.6060264897243695
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 21,
+    "noise_pct": 24.352941176470587,
+    "silhouette": 0.6806083926927143
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 20,
+    "noise_pct": 20.97058823529412,
+    "silhouette": 0.7297209535987078
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 18,
+    "noise_pct": 13.92156862745098,
+    "silhouette": 0.6909030952520733
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 17,
+    "noise_pct": 12.323529411764705,
+    "silhouette": 0.6735822991165303
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 14,
+    "noise_pct": 8.147058823529411,
+    "silhouette": 0.66915405845246
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 11,
+    "noise_pct": 4.549019607843137,
+    "silhouette": 0.6038476851560797
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 22,
+    "noise_pct": 22.186274509803923,
+    "silhouette": 0.7543271581025791
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 22,
+    "noise_pct": 22.186274509803923,
+    "silhouette": 0.7543271581025791
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 21,
+    "noise_pct": 19.637254901960784,
+    "silhouette": 0.7322999295613534
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 19,
+    "noise_pct": 14.029411764705882,
+    "silhouette": 0.6885204453813886
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 17,
+    "noise_pct": 11.450980392156863,
+    "silhouette": 0.7606305106089492
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 14,
+    "noise_pct": 6.5,
+    "silhouette": 0.6018361407366447
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 18,
+    "noise_pct": 27.6078431372549,
+    "silhouette": 0.7748170100343109
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 18,
+    "noise_pct": 27.6078431372549,
+    "silhouette": 0.7748170100343109
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 18,
+    "noise_pct": 27.6078431372549,
+    "silhouette": 0.7748170100343109
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 18,
+    "noise_pct": 27.6078431372549,
+    "silhouette": 0.7748170100343109
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 17,
+    "noise_pct": 20.92156862745098,
+    "silhouette": 0.7341169560146833
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 150,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 13,
+    "noise_pct": 13.46078431372549,
+    "silhouette": 0.7573765598041046
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 12,
+    "noise_pct": 32.970588235294116,
+    "silhouette": 0.7895760341134758
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 12,
+    "noise_pct": 32.970588235294116,
+    "silhouette": 0.7895760341134758
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 12,
+    "noise_pct": 32.970588235294116,
+    "silhouette": 0.7895760341134758
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 12,
+    "noise_pct": 32.970588235294116,
+    "silhouette": 0.7895760341134758
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 12,
+    "noise_pct": 32.970588235294116,
+    "silhouette": 0.7895760341134758
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 10,
+    "noise_pct": 19.35294117647059,
+    "silhouette": 0.7837037491719488
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 15,
+    "noise_pct": 22.11764705882353,
+    "silhouette": 0.6816129081703522
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 15,
+    "noise_pct": 22.11764705882353,
+    "silhouette": 0.6816129081703522
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 13,
+    "noise_pct": 13.872549019607844,
+    "silhouette": 0.705238179166959
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 12,
+    "noise_pct": 13.480392156862745,
+    "silhouette": 0.7133389478009831
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 10,
+    "noise_pct": 7.147058823529412,
+    "silhouette": 0.6567993862351154
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 8,
+    "noise_pct": 3.637254901960784,
+    "silhouette": 0.5746445529054817
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 15,
+    "noise_pct": 24.254901960784313,
+    "silhouette": 0.6921312599562828
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 15,
+    "noise_pct": 24.254901960784313,
+    "silhouette": 0.6921312599562828
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 13,
+    "noise_pct": 13.80392156862745,
+    "silhouette": 0.7011232931814267
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 13,
+    "noise_pct": 13.80392156862745,
+    "silhouette": 0.7011232931814267
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 11,
+    "noise_pct": 7.3235294117647065,
+    "silhouette": 0.6292922804868757
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 8,
+    "noise_pct": 3.7254901960784315,
+    "silhouette": 0.5844529021177114
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 17,
+    "noise_pct": 29.01960784313726,
+    "silhouette": 0.7616071433099285
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 17,
+    "noise_pct": 29.01960784313726,
+    "silhouette": 0.7616071433099285
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 16,
+    "noise_pct": 26.47058823529412,
+    "silhouette": 0.7390715122057707
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 14,
+    "noise_pct": 17.53921568627451,
+    "silhouette": 0.7343973448081581
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 13,
+    "noise_pct": 16.52941176470588,
+    "silhouette": 0.7589070870043443
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 10,
+    "noise_pct": 7.7254901960784315,
+    "silhouette": 0.5939707072233618
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 15,
+    "noise_pct": 24.38235294117647,
+    "silhouette": 0.7319962493639964
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 15,
+    "noise_pct": 24.38235294117647,
+    "silhouette": 0.7319962493639964
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 15,
+    "noise_pct": 24.38235294117647,
+    "silhouette": 0.7319962493639964
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 15,
+    "noise_pct": 24.38235294117647,
+    "silhouette": 0.7319962493639964
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 15,
+    "noise_pct": 24.38235294117647,
+    "silhouette": 0.7319962493639964
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 200,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 11,
+    "noise_pct": 13.333333333333334,
+    "silhouette": 0.7508043750695256
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 8,
+    "noise_pct": 23.392156862745097,
+    "silhouette": 0.7917426762441523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 8,
+    "noise_pct": 23.392156862745097,
+    "silhouette": 0.7917426762441523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 8,
+    "noise_pct": 23.392156862745097,
+    "silhouette": 0.7917426762441523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 8,
+    "noise_pct": 23.392156862745097,
+    "silhouette": 0.7917426762441523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 8,
+    "noise_pct": 23.392156862745097,
+    "silhouette": 0.7917426762441523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 8,
+    "noise_pct": 23.392156862745097,
+    "silhouette": 0.7917426762441523
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 11,
+    "noise_pct": 18.0,
+    "silhouette": 0.6844593253487828
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 11,
+    "noise_pct": 18.0,
+    "silhouette": 0.6844593253487828
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 10,
+    "noise_pct": 11.862745098039214,
+    "silhouette": 0.7131423885673439
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 10,
+    "noise_pct": 11.862745098039214,
+    "silhouette": 0.7131423885673439
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 9,
+    "noise_pct": 9.568627450980392,
+    "silhouette": 0.6723840522718784
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 8,
+    "noise_pct": 3.637254901960784,
+    "silhouette": 0.5746445529054817
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 10,
+    "noise_pct": 12.156862745098039,
+    "silhouette": 0.6605303358104
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 10,
+    "noise_pct": 12.156862745098039,
+    "silhouette": 0.6605303358104
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 10,
+    "noise_pct": 12.156862745098039,
+    "silhouette": 0.6605303358104
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 10,
+    "noise_pct": 12.156862745098039,
+    "silhouette": 0.6605303358104
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 9,
+    "noise_pct": 9.725490196078432,
+    "silhouette": 0.6320072677402534
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 8,
+    "noise_pct": 3.7254901960784315,
+    "silhouette": 0.5844529021177114
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 10,
+    "noise_pct": 14.990196078431373,
+    "silhouette": 0.7449381247915339
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 10,
+    "noise_pct": 14.990196078431373,
+    "silhouette": 0.7449381247915339
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 10,
+    "noise_pct": 14.990196078431373,
+    "silhouette": 0.7449381247915339
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 10,
+    "noise_pct": 14.990196078431373,
+    "silhouette": 0.7449381247915339
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 10,
+    "noise_pct": 14.990196078431373,
+    "silhouette": 0.7449381247915339
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 8,
+    "noise_pct": 6.0588235294117645,
+    "silhouette": 0.6061428577973419
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 11,
+    "noise_pct": 19.401960784313726,
+    "silhouette": 0.7150716809896819
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 11,
+    "noise_pct": 19.401960784313726,
+    "silhouette": 0.7150716809896819
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 11,
+    "noise_pct": 19.401960784313726,
+    "silhouette": 0.7150716809896819
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 11,
+    "noise_pct": 19.401960784313726,
+    "silhouette": 0.7150716809896819
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 11,
+    "noise_pct": 19.401960784313726,
+    "silhouette": 0.7150716809896819
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 300,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 10,
+    "noise_pct": 15.715686274509805,
+    "silhouette": 0.7496500658666521
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": null,
+    "eps_km": 0,
+    "n_clusters": 5,
+    "noise_pct": 22.480392156862745,
+    "silhouette": 0.7577933480435013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": null,
+    "eps_km": 10,
+    "n_clusters": 5,
+    "noise_pct": 22.480392156862745,
+    "silhouette": 0.7577933480435013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": null,
+    "eps_km": 20,
+    "n_clusters": 5,
+    "noise_pct": 22.480392156862745,
+    "silhouette": 0.7577933480435013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": null,
+    "eps_km": 30,
+    "n_clusters": 5,
+    "noise_pct": 22.480392156862745,
+    "silhouette": 0.7577933480435013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": null,
+    "eps_km": 50,
+    "n_clusters": 5,
+    "noise_pct": 22.480392156862745,
+    "silhouette": 0.7577933480435013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": null,
+    "eps_km": 100,
+    "n_clusters": 5,
+    "noise_pct": 22.480392156862745,
+    "silhouette": 0.7577933480435013
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 3,
+    "eps_km": 0,
+    "n_clusters": 7,
+    "noise_pct": 11.745098039215685,
+    "silhouette": 0.7292478587753304
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 3,
+    "eps_km": 10,
+    "n_clusters": 7,
+    "noise_pct": 11.745098039215685,
+    "silhouette": 0.7292478587753304
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 3,
+    "eps_km": 20,
+    "n_clusters": 7,
+    "noise_pct": 11.745098039215685,
+    "silhouette": 0.7292478587753304
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 3,
+    "eps_km": 30,
+    "n_clusters": 7,
+    "noise_pct": 11.745098039215685,
+    "silhouette": 0.7292478587753304
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 3,
+    "eps_km": 50,
+    "n_clusters": 7,
+    "noise_pct": 11.745098039215685,
+    "silhouette": 0.7292478587753304
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 3,
+    "eps_km": 100,
+    "n_clusters": 6,
+    "noise_pct": 1.9705882352941178,
+    "silhouette": 0.6930148325935798
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 5,
+    "eps_km": 0,
+    "n_clusters": 7,
+    "noise_pct": 11.794117647058822,
+    "silhouette": 0.6972561601622579
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 5,
+    "eps_km": 10,
+    "n_clusters": 7,
+    "noise_pct": 11.794117647058822,
+    "silhouette": 0.6972561601622579
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 5,
+    "eps_km": 20,
+    "n_clusters": 7,
+    "noise_pct": 11.794117647058822,
+    "silhouette": 0.6972561601622579
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 5,
+    "eps_km": 30,
+    "n_clusters": 7,
+    "noise_pct": 11.794117647058822,
+    "silhouette": 0.6972561601622579
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 5,
+    "eps_km": 50,
+    "n_clusters": 7,
+    "noise_pct": 11.794117647058822,
+    "silhouette": 0.6972561601622579
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 5,
+    "eps_km": 100,
+    "n_clusters": 6,
+    "noise_pct": 2.049019607843137,
+    "silhouette": 0.6961373297667821
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 15,
+    "eps_km": 0,
+    "n_clusters": 6,
+    "noise_pct": 17.294117647058822,
+    "silhouette": 0.7703720320368747
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 15,
+    "eps_km": 10,
+    "n_clusters": 6,
+    "noise_pct": 17.294117647058822,
+    "silhouette": 0.7703720320368747
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 15,
+    "eps_km": 20,
+    "n_clusters": 6,
+    "noise_pct": 17.294117647058822,
+    "silhouette": 0.7703720320368747
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 15,
+    "eps_km": 30,
+    "n_clusters": 6,
+    "noise_pct": 17.294117647058822,
+    "silhouette": 0.7703720320368747
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 15,
+    "eps_km": 50,
+    "n_clusters": 6,
+    "noise_pct": 17.294117647058822,
+    "silhouette": 0.7703720320368747
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 15,
+    "eps_km": 100,
+    "n_clusters": 5,
+    "noise_pct": 7.4607843137254894,
+    "silhouette": 0.7208210674149474
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 50,
+    "eps_km": 0,
+    "n_clusters": 6,
+    "noise_pct": 12.352941176470589,
+    "silhouette": 0.6273994515378998
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 50,
+    "eps_km": 10,
+    "n_clusters": 6,
+    "noise_pct": 12.352941176470589,
+    "silhouette": 0.6273994515378998
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 50,
+    "eps_km": 20,
+    "n_clusters": 6,
+    "noise_pct": 12.352941176470589,
+    "silhouette": 0.6273994515378998
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 50,
+    "eps_km": 30,
+    "n_clusters": 6,
+    "noise_pct": 12.352941176470589,
+    "silhouette": 0.6273994515378998
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 50,
+    "eps_km": 50,
+    "n_clusters": 6,
+    "noise_pct": 12.352941176470589,
+    "silhouette": 0.6273994515378998
+  },
+  {
+    "algo": "HDBSCAN",
+    "min_cluster_size": 500,
+    "min_samples": 50,
+    "eps_km": 100,
+    "n_clusters": 6,
+    "noise_pct": 12.352941176470589,
+    "silhouette": 0.6273994515378998
+  }
+]
